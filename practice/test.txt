@@ -1,0 +1,3 @@
+this is a sample text.
+count line, word, char.
+this is column three.
